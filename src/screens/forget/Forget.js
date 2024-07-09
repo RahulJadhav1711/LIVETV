@@ -15,7 +15,7 @@ const Forget = () => {
             <TextInput
                 style={styles.textInput1}
                 placeholder="Username, Email or Mobile Number"
-                placeholderTextColor={'gray'}
+                placeholderTextColor={'red'}
             />
             <TouchableOpacity style={styles.btn}>
                 <Text style={styles.btnText}>CONTINUE</Text>
