@@ -12,7 +12,7 @@ const Splash = ({navigation}) => {
         <View style={styles.container}>
             <Image style={styles.icon} source={require('../../assets/splashLogo.jpeg')}/>
             {/* <Text style={styles.title}><Text style={{color: '#D9008D'}}>JIO</Text>CENEMA</Text> */}
-            <Text style={styles.disc}>Please Wait We Loading Our SiloTv</Text>
+            <Text style={styles.disc}>Please Wait We Loading Our LiveTv</Text>
         </View>
     )
 }
